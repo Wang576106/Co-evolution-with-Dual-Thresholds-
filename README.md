@@ -16,7 +16,7 @@ No additional libraries or packages are required.
 Setup
 Clone or download​ this repository.
 Open NetLogo.
-Load the model file.
+Load the model file: `File → Open… → model/dual_threshold_model.nlogo or dual_threshold_model-family.nlogo or dual_threshold_model-weibo.nlogo
 
 All simulation parameters are exposed as sliders, choosers, and switches in the NetLogo interface.
 Reproducing the Experiments
@@ -42,7 +42,4 @@ License
 This project is licensed under the MIT License​ – see the LICENSE
  file for details.
 
- Contact
 
-For questions or issues, please open an Issue
- or contact the corresponding author at wangyiyi1@bjpc.edu.cn
