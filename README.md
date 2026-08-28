@@ -16,7 +16,10 @@ No additional libraries or packages are required.
 Setup
 Clone or download​ this repository.
 Open NetLogo.
-Load the model file: `File → Open… → model/dual_threshold_model.nlogo or dual_threshold_model-family.nlogo or dual_threshold_model-weibo.nlogo
+Load the model file according to the network type:
+   - For Artificial network: `File → Open… → model/dual_threshold_model.nlogo`
+   - For Family network: `File → Open… → model/dual_threshold_model-family.nlogo`
+   - For Weibo network: `File → Open… → model/dual_threshold_model-weibo.nlogo`
 
 All simulation parameters are exposed as sliders, choosers, and switches in the NetLogo interface.
 Reproducing the Experiments
